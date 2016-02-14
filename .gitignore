@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+backfill.py
+message.py
+user.py
+watchlist.py
+
 # C extensions
 *.so
 
